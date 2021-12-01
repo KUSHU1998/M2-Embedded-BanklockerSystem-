@@ -1,16 +1,13 @@
-##### **Requirements:**
+#####
+**# Requirements:**
 
 This project is to build a Finger Print Based Bank Locker Security system where we can secure the Locker Storage using this system and make if safer than before. The fingerprint based bank locker system is an enhancement to the traditional bank locker system that uses keys.
 
-##
-
-
 ## **Identify Features:**
 
-**-** Finger Print Sensor **-** LCD Screen Display **-** Motorized Operation
-
-##
-
+- Finger Print Sensor
+- LCD Screen Display
+- Motorized Operation
 
 ## State of art/Research:
 
@@ -18,27 +15,37 @@ Fingerprint based bank locker system is here to solve all these issues. The fing
 
 **4-W&#39;s and 1-H:**
 
-### **Why:** This method of authentication is more reliable and advanced.
+### **Why:**
+
+### This method of authentication is more reliable and advanced.
 
 ###
 
 
-### **Where:** The system are mainly build for lockers but can be installed and used anywhere if the possessions are very valuable/precious.
+### **Where:**
+
+### The system are mainly build for lockers but can be installed and used anywhere if the possessions are very valuable/precious.
 
 ###
 
 
-### **Who:** It can be used by any person.
+### **Who:**
+
+### It can be used by any person.
 
 ###
 
 
-### **When:** It can be used at anytime depending upon the customer&#39;s/user&#39;s preferences.
+### **When:**
+
+### It can be used at anytime depending upon the customer&#39;s/user&#39;s preferences.
 
 ###
 
 
-### **How:** By putting the finger over the finger print sensor you can open the locker. Without that the locker won&#39;t open.
+### **How:**
+
+### By putting the finger over the finger print sensor you can open the locker. Without that the locker won&#39;t open.
 
 **SWOT Analysis:**
 
@@ -61,3 +68,26 @@ Fingerprint based bank locker system is here to solve all these issues. The fing
 ### **THREATS:**
 
 - Not immune to all the security threats and hacking.
+
+#### **HIGH LEVEL REQUIREMENTS**
+
+| **High Level Requirements** | **Description** |
+| --- | --- |
+| HLR1 | Finger Print Sensor |
+| --- | --- |
+| HLR2 | Switches |
+| HLR3 | Motor |
+| HLR4 | Microcontroller |
+| HLR5 | Software used |
+| HLR6 | Display |
+
+# **LOWLEVEL REQUIREMENTS**
+
+| **Low Level Requirements** | **Description** |
+| --- | --- |
+| HLR1\_LLR1 | Finger Print module |
+| --- | --- |
+| HLR2\_LLR1 | Push Button |
+| HLR4\_LLR1 | ATMEGA 328 |
+| HLR5\_LLR1 | Code Blocks with AVR GCC compiler |
+| HLR6\_LLR1 | SimulIDE LCD and LED |
