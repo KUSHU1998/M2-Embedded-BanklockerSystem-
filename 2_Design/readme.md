@@ -10,5 +10,4 @@
 
 -
 ##### Behavioral Design
-- Structural Design
-- images given above 
+- Structural Design( images given above )
