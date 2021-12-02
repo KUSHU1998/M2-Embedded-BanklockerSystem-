@@ -124,7 +124,6 @@ void displayUnlockedScreen()
 {
    display.fillScreen(BLACK);
    display.drawRect(0,0,128,128,WHITE);
-   
    display.setCursor(18,10);
    display.setTextColor(GREEN); 
    display.setTextSize(2);
