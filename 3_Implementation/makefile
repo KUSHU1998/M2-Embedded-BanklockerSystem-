@@ -1,4 +1,4 @@
-PROJ_NAME = fingerprint based security system
+PROJ_NAME = bank locker system
 BUILD_DIR = Build
 
 # All Source code files
